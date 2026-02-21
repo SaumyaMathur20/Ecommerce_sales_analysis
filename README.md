@@ -15,6 +15,7 @@ The project followed a structured analytical workflow. First, the raw dataset wa
 ## Skills
 
 MySQL- Data Cleaning, Querying and Creating Calculated Measures
+
 Power BI- DAX, Data Visualization and Transformation 
 
 ## Results 
@@ -24,5 +25,6 @@ The analysis helped to infer meaningful patterns in sales and profitability. Cer
 ## Business Recommendations
 
 Based on the analysis, the business must prioritize the high performing product categories to maximise the revenue. Products contributing to sales out of proportion should receive targeted marketing and inventory support. Profitability can be improved by monitoring the profit margin across various categories that can help us to identify where cost or pricing adjustments can be done.
+
 
 
