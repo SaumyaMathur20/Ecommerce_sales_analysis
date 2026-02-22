@@ -1,5 +1,10 @@
 # E-commerce Sales Analysis
 
+## Dashboard Preview
+## 📊 Dashboard Preview
+
+![Dashboard](screenshots/DASHBOARD.png)
+
 ## Executive Summary
 
 This project focuses on analysing E-commerce sales data to deduce the key business insights such as product performance, sales trend and profitability. The analysis was performed using SQL for the purpose of data cleaning and transformation, followed by Power BI for interactive dashboard development. The objective was to convert the raw dataset available to us into meaningful insight which ensures effective business decision making. The final dashboard enables stakeholders to monitor the sales trend, identify the top performing categories and evaluate the overall profit margins.
@@ -25,6 +30,7 @@ The analysis helped to infer meaningful patterns in sales and profitability. Cer
 ## Business Recommendations
 
 Based on the analysis, the business must prioritize the high performing product categories to maximise the revenue. Products contributing to sales out of proportion should receive targeted marketing and inventory support. Profitability can be improved by monitoring the profit margin across various categories that can help us to identify where cost or pricing adjustments can be done.
+
 
 
 
